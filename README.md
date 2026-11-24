@@ -99,6 +99,3 @@ make clean
 
 **Santosh Mahadev Chougule**
 
-## Note
-
-This project is a basic educational implementation of a C preprocessor. It supports selected preprocessing operations and does not implement all features of the standard C preprocessor.
